@@ -1,0 +1,78 @@
+
+.header img{
+    width:100px;
+}
+.header h1{
+    background-color:red;
+    color:white;
+}
+.header ul{
+    list-style:none;
+    padding-left:0px;
+}
+.header li{
+    font-size:20px;
+}
+.intro{
+    color:white;
+    background-color:brown;
+}
+.intro h2{
+    text-align:center;
+    font-size:40px;
+}
+.intro p{
+    font-size:30px;
+    text-align:justify;
+}
+.intro #highlight{
+    font-weight:bold;
+    font-style:italic;
+    color:black;
+}
+.intro img{
+    width:50%;
+}
+.timeline{
+    color:white;
+    background-color:brown;
+}
+.timeline h2{
+    font-size:40px;
+    text-align:center;
+}
+.timeline ul{
+    font-size:25px;
+}
+.timeline img{
+    width:50%;
+}
+
+.product h2{
+    font-size:35px;
+    text-align:center;
+}
+table{
+    text-align:center;
+}
+#table-header{
+    font-weight:bold;
+    text-align:center;
+}
+#greentea{
+    background-image: url(./images/greentea.jpg);
+    text-align:right;
+}
+#blacktea{
+    background-image:url(./images/blacktea.jpg)
+}
+#olongtea{
+    background-image:url(./images/olongtea.jpg);
+    text-align:left;
+}
+#fruittea{
+    background-image:url(./images/fruit.jpg)
+}
+#milktea{
+    background-image: url(./images/milktea.png);
+}
